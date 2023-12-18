@@ -15,22 +15,22 @@
 
 
 <h3 align="center"> 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'am Dr. Milaan! Researcher - Data Science & Machine Learning with AI <img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="36"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'am Mr.Mounesh Gouda! Researcher - Data Science, NLP, CV & Machine Learning with AI <img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="36"/>
 </h3> 
 
 <p align="center">   
 
 </p> 
 <p align="center"> 
-    <a href="https://github.com/milaan9" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@milaan9-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/milaanparmar" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-milaanparmar-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-    <a href="https://www.researchgate.net/profile/Milan-Parmar" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-Milaan&#8208;Parmar-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
-    <a href="https://orcid.org/0000-0002-7596-407X" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-0000&#8208;0002&#8208;7596&#8208;407X-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
-    <a href="https://publons.com/researcher/3190369/milan-parmar" target="_blank"><img alt="publons" src="https://img.shields.io/badge/-Milan Parmar-336699?style=flat-square&logo=PUBLONS&logoColor=white"></a>
-    <a href="https://scholar.google.com/citations?user=TV396CYAAAAJ&hl=en" target="_blank"><img alt="GoogleScholar" src="https://img.shields.io/badge/-Milan Parmar-4885ED?style=flat-square&logo=Google-Scholar&logoColor=white"></a>
-    <img alt="WeChat" src="https://img.shields.io/badge/-milaanparmar9-4C1?style=flat-square&logo=wechat&logoColor=white"></a>
-    <img alt="Skype" src="https://img.shields.io/badge/milaan.09-blue?flat-square&logo=skype&logoColor=white"></a>
-    <!--<a href="https://scholar.google.com/citations?user=TV396CYAAAAJ&hl=en" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-portfolio-%23?colorB=orange&style=flat-square&logo=&logoColor=white"></a>-->
+    <a href="https://github.com/Gurupatil0003" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@Gurupatil0003-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/guranna-gouda-039870228/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Guranna Gouda-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+    <a href="https://www.researchgate.net/profile/Milan-Parmar" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-Guranna&#8208;Gouda-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
+    <a href="https://orcid.org/0000-0002-7596-407X" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-Guranna Gouda0000&#8208;0002&#8208;7596&#8208;407X-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
+    <a href="https://publons.com/researcher/3190369/milan-parmar" target="_blank"><img alt="publons" src="https://img.shields.io/badge/-Guranna Gouda-336699?style=flat-square&logo=PUBLONS&logoColor=white"></a>
+    <a href="https://scholar.google.com/citations?user=TV396CYAAAAJ&hl=en" target="_blank"><img alt="GoogleScholar" src="https://img.shields.io/badge/-Guranna Gouda-4885ED?style=flat-square&logo=Google-Scholar&logoColor=white"></a>
+    <img alt="WeChat" src="https://img.shields.io/badge/-Gurupatil0003-4C1?style=flat-square&logo=wechat&logoColor=white"></a>
+    <img alt="Skype" src="https://img.shields.io/badge/Gurupatil0003-blue?flat-square&logo=skype&logoColor=white"></a>
+     <!--<a href="https://scholar.google.com/citations?user=TV396CYAAAAJ&hl=en" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-portfolio-%23?colorB=orange&style=flat-square&logo=&logoColor=white"></a>-->
     <!--<a href="https://milaan9.github.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-web-%23.svg?colorB=orange&style=flat&&logo=&logoColor=white%22"></a>-->
     <!--<img alt="WeChat" src="https://img.shields.io/static/v1?label=WeChat&message=milaanparmar9&color=7BB32E&logo=wechat"/>-->
     <!--<img alt="QQ" src="https://img.shields.io/badge/QQ -3086215265-0099ff?style=fflat-square&labelColor=FFD43B"></a>-->
@@ -40,11 +40,13 @@
 
 <table align="right">
     <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/3898082.svg" width="25"> Languages</a></td></tr>
-    <tr><td><a href="README.md"><img src="https://github.com/milaan9/milaan9/blob/main/197484.svg" height="15"> English ★★★</a></td></tr>
-    <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197375.svg" height="15"> Mandarin ★★☆</a></td></tr>
-    <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197408.svg" height="15"> Russian ★★☆</a></td></tr>
-    <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/3909444.svg" height="15"> Hindi ★★★</a></td></tr>
-    <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197571.svg" height="15"> German ★☆☆</a></td></tr>
+    <tr><td><a href="README.md"><img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/3909444.png" height="15"> English ★★★</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/3909444.png" height="15"> Kannada ★★★</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/3909444.png" height="15"> Hindi ★★★</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/3909444.png" height="15"> Telugu ★★★</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/3909444.png" height="15"> Tamil ★★☆</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/3909444.png" height="15"> malayalam ★★☆</a></td></tr>
+
 </table>
 
 
@@ -53,15 +55,17 @@
 
 #### BIO
 
-- 🏢 Postdoctoral Associate at **Mississippi State University**
+- 🏢 Computational Data Sciennce **Case western Reserve University**
 - 🔭 Area of interest is in <img src="https://img.shields.io/badge/Pattern Recognition-green"> and <img src="https://img.shields.io/badge/Anomaly Identification-red">
 - 🎯 Specifically interested in finding hidden patterns, rules and knowledge from a dataset.
 - 🌱 Learning all about <img src="https://img.shields.io/badge/Artificial Intelligence-brown"> and <img src="https://img.shields.io/badge/Cyber Security-008080">
 - <img align ='center' width ='27' src='https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif'> Looking to collaborate on *Open Source Projects* on <img src="https://img.shields.io/badge/Machine Learning-blue">
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25"/> Ping me about <img src="https://img.shields.io/badge/Data Mining-yellow"> and <img src="https://img.shields.io/badge/Data Visualization-purple">
-<!--- &nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12"/>&nbsp;&nbsp; Fun fact: Vegetarian🌿 | huge fan of Harry Potter🧙 | love feeding birds 🕊 | enjoy cooking and hosting dinner <img align ='center' width ='20' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif'>
-- <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="20" />&nbsp; I enjoy listening music 🎧 going to gym 🏋️‍♂️ play badminton 🏸 and traveling <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">🏝️🗻🌄🗿<img align ='center' width ='20' src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="18">-->
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> Reach me: <a href="mailto:milaanparmar9@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-milaanparmar9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
+&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12"/>&nbsp;&nbsp;
+- Fun fact: Vegetarian🌿 | huge fan of Harry Potter🧙 | Love❤️| Bike <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/Motorcycle-Bike.png" width="45"/>
+ | love feeding birds 🕊 | enjoy cooking and hosting dinner <img align ='center' width ='20' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif'>
+- <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="20" />&nbsp; I enjoy listening music 🎧 going to gym 🏋️‍♂️ play badminton 🏸 and traveling <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">🏝️🗻🌄🗿<img align ='center' width ='20' src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="18">
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> Reach me: <a href="mailto:gurupatil327@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-gurupatil327@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
 
 
 <p align="center">
@@ -69,7 +73,7 @@
     <a href="https://github.com/milaan9?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=darkgreen"></a>
     <!--<a href="https://github.com/milaan9?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-★★★-lightgrey?style=flat-square&labelColor=FFD43B&logo=python&logoColor=darkgreen"></a>-->
     <a href="https://github.com/milaan9?tab=repositories&language=Jupyter Notebook" target="_blank"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white"></a>
-    <a href="https://github.com/milaan9/09_Python_NumPy_Module" target="_blank"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white"></a>
+    <a href="https://github.com/Gurupatil0003" target="_blank"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white"></a>
     <a href="https://github.com/milaan9/10_Python_Pandas_Module" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white"></a>
     <a href="https://github.com/milaan9/11_Python_Matplotlib_Module" target="_blank"><img alt="Ploty" src="https://img.shields.io/badge/Plotly-%233F4F75?style=flat-square&logo=plotly&logoColor=white"></a>
     <a href="https://github.com/milaan9/Python_Decision_Tree_and_Random_Forest" target="_blank"><img alt="ScikitLearn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"></a>
@@ -125,8 +129,8 @@
 <details>
 <summary><samp>&#9776;</samp> Click for GitHub Stats <i>(click to expand)</i> </summary>
 <p align="center">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=milaan9&theme=jolly&show_icons=true" alt="Milaan's Github readme stats">
-    <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=milaan9&&theme=jolly&show_icons=true" alt="milaan9"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Gurupatil0003&theme=jolly&show_icons=true" alt="Gurupatil003's Github readme stats">
+    <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Gurupatil0003&theme=nightfox&hide_border=true&type=png" alt="GitHub Streak" /></a>
 </p>
 </details>
 
@@ -146,6 +150,7 @@
     <a href="https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/master?urlpath=lab" target="_blank"><img alt="Python" src="https://mybinder.org/badge_logo.svg"></a>
 <!--https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/master-->
 </p>
+
 
 <!--
 [![DOI](https://zenodo.org/badge/200104059.svg)](https://zenodo.org/badge/latestdoi/200104059)
