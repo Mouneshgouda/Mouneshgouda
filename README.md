@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://github.com/Mouneshgouda/Mouneshgouda/blob/main/de061af8b29c72b745e3fd3f5e16d4ab.png" width="99"/>Hey! Nice to see you  <img src="https://github.com/Mouneshgouda/Mouneshgouda/blob/main/luffy-wano.gif" width="99"/></h1>
+<h1 align="center"> <img src="https://github.com/Mouneshgouda/Mouneshgouda/blob/main/de061af8b29c72b745e3fd3f5e16d4ab.png" width="50"/>Hey! Nice to see you  <img src="https://github.com/Mouneshgouda/Mouneshgouda/blob/main/luffy-wano.gif" width="99"/></h1>
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=milaan9" alt="milaan9"/>       
