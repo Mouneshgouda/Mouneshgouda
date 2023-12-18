@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="36"/>Hey! Nice to see you  <img src="https://github.com/Mouneshgouda/Mouneshgouda/blob/main/luffy-wano.gif" width="99"/></h1>
+<h1 align="center"> <img src="https://github.com/Mouneshgouda/Mouneshgouda/blob/main/e342aa99d92cb8660fa1918986c595d0.gif" width="99"/>Hey! Nice to see you  <img src="https://github.com/Mouneshgouda/Mouneshgouda/blob/main/luffy-wano.gif" width="99"/></h1>
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=milaan9" alt="milaan9"/>       
