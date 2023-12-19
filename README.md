@@ -65,7 +65,7 @@
 - Fun fact: <img src="https://github.com/Mouneshgouda/Mouneshgouda/blob/main/1307b8153968f6e9ce1020db5bab41e7.gif" width="25"/> 20--Jan--2001 | 22 years | Vegetarian🌿 |  Love & Peace❤️| Bike <img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/Motorcycle-Bike.png" width="35"/>
  | love feeding birds 🕊 | enjoy cooking and hosting dinner <img align ='center' width ='20' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif'>
 <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="20" />&nbsp; I enjoy listening music 🎧 going to gym 🏋️‍♂️ and traveling <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">🏝️🗻🌄🗿<img align ='center' width ='20' src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="18">
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> Reach me: <a href="mailto:gurupatil327@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-gurupatil327@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> Reach me: <a href="mailto:mouneshpatil001@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-gurupatil327@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
 
 
 <p align="center">
