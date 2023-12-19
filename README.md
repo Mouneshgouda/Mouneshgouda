@@ -92,7 +92,7 @@
     <a href="https://github.com/milaan9?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/LLM-%2344BFC8?style=flat-square&logo=llm&logoColor=white"></a></p>
 
 <p>
-    ----<!--https://github.com/alexandresanlim/Badges4-README.md-Profile-->
+    -<!--https://github.com/alexandresanlim/Badges4-README.md-Profile-->
 </p>
 
 <details>
