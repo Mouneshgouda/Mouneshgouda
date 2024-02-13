@@ -68,29 +68,512 @@
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> Reach me: <a href="mailto:mouneshpatil001@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-mouneshpatil001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
 
 #### SKILSS
-<p align="center">
-    <a href="https://github.com/milaan9?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
-    <a href="https://github.com/milaan9?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=darkgreen"></a>
-    <!--<a href="https://github.com/milaan9?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-★★★-lightgrey?style=flat-square&labelColor=FFD43B&logo=python&logoColor=darkgreen"></a>-->
-    <a href="https://github.com/milaan9?tab=repositories&language=Jupyter Notebook" target="_blank"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white"></a>
-    <a href="https://github.com/Mouneshgouda" target="_blank"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white"></a>
-    <a href="https://github.com/milaan9/10_Python_Pandas_Module" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white"></a>
-    <a href="https://github.com/milaan9/11_Python_Matplotlib_Module" target="_blank"><img alt="Ploty" src="https://img.shields.io/badge/Plotly-%233F4F75?style=flat-square&logo=plotly&logoColor=white"></a>
-    <a href="https://github.com/milaan9/Python_Decision_Tree_and_Random_Forest" target="_blank"><img alt="ScikitLearn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"></a>
-    <a href="https://github.com/milaan9/93_Python_Data_Analytics_Projects" target="_blank"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5?style=flat-square&logo=scipy&logoColor=white"></a>
-    <a href="https://github.com/milaan9/93_Python_Data_Analytics_Projects" target="_blank"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"></a>    
-    <a href="https://github.com/milaan9?tab=repositories&language=matlab" target="_blank"><img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-fb4f14?style=flat-square&logo=Mathworks&logoColor=white"></a>
-    <a href="https://github.com/milaan9?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
-    <a href="https://github.com/milaan9?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
-    <a href="https://github.com/milaan9?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>   
-    <a href="https://github.com/milaan9?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
-    <a href="https://github.com/milaan9?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/Hadoop-%232A73CC?style=flat-square&logo=apache-hadoop&logoColor=white"></a>
-    <a href="https://github.com/milaan9?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/Spark-%23E25A1C?style=flat-square&logo=apache-spark&logoColor=white"></a>
-    <a href="https://github.com/milaan9?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/Keras-%23D00000?style=flat-square&logo=keras&logoColor=white"></a>
-    <a href="https://github.com/milaan9?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/CV-%233776AB?style=flat-square&logo=computer-vision&logoColor=white"></a>
-    <a href="https://github.com/milaan9?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/LSTM-%23FF6F61?style=flat-square&logo=lstm&logoColor=white"></a>
-    <a href="https://github.com/milaan9?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/LLM-%2344BFC8?style=flat-square&logo=llm&logoColor=white"></a></p>
 
+<p align="center">
+    <a href="https://github.com/Gurupatil0003?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
+    <a href="https://github.com/Gurupatil0003?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=darkgreen"></a>
+    <!--<a href="https://github.com/milaan9?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-★★★-lightgrey?style=flat-square&labelColor=FFD43B&logo=python&logoColor=darkgreen"></a>-->
+    <a href="https://github.com/Gurupatil0003?tab=repositories&language=Jupyter Notebook" target="_blank"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white"></a>
+    <a href="https://github.com/Gurupatil0003" target="_blank"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white"></a>
+    <a href="https://github.com/Gurupatil0003/10_Python_Pandas_Module" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white"></a>
+    <a href="https://github.com/Gurupatil0003/11_Python_Matplotlib_Module" target="_blank"><img alt="Ploty" src="https://img.shields.io/badge/Plotly-%233F4F75?style=flat-square&logo=plotly&logoColor=white"></a>
+    <a href="https://github.com/Gurupatil0003/Python_Decision_Tree_and_Random_Forest" target="_blank"><img alt="ScikitLearn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"></a>
+
+<!-- Example for Matplotlib -->
+<a href="https://github.com/Gurupatil0003" target="_blank">
+<img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white">
+</a>
+
+<!-- Example for Seaborn -->
+<a href="https://github.com/Gurupatil0003" target="_blank"> 
+<img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-4EABD1?style=flat-square&logo=seaborn&logoColor=white">
+</a>
+
+<!-- Example for Plotly -->
+<a href="https://github.com/Gurupatil0003" target="_blank">
+<img alt="Plotly" src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white">
+</a>
+
+<!-- Example for Scikit-learn -->
+<a href="https://github.com/Gurupatil0003" target="_blank">
+<img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
+</a>
+
+<!-- Example for TensorFlow -->
+<a href="#" target="_blank">
+<img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F61?style=flat-square&logo=tensorflow&logoColor=white">
+</a>
+
+<!-- Example for Keras -->
+<a href="https://github.com/Gurupatil0003" target="_blank">
+<img alt="Keras" src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white">
+</a>
+
+<!-- Example for OpenCV -->
+<a href="https://github.com/Gurupatil0003" target="_blank">
+<img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
+</a>
+
+
+<!-- Example for NLTK -->
+<a href="https://github.com/Gurupatil0003" target="_blank">
+<img alt="NLTK" src="https://img.shields.io/badge/-NLTK-4E4E4E?style=flat-square&logo=nltk&logoColor=white">
+</a>
+
+<!-- Example for PySpark -->
+<a href="https://github.com/Gurupatil0003" target="_blank">
+<img alt="PySpark" src="https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white">
+</a>
+
+<!-- Example for Beautiful Soup -->
+<a href="https://github.com/Gurupatil0003" target="_blank">
+  <img alt="Beautiful Soup" src="https://img.shields.io/badge/-Beautiful%20Soup-4E4E4E?style=flat-square&logo=python&logoColor=white">
+</a>
+
+<!-- Example for Regex -->
+<a href="https://github.com/Gurupatil0003" target="_blank">
+  <img alt="Regex" src="https://img.shields.io/badge/-Regex-4E4E4E?style=flat-square&logo=python&logoColor=white">
+</a>
+
+<!-- Example for PyTorch -->
+<a href="https://github.com/Gurupatil0003" target="_blank">
+  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+</a>
+
+<!-- Example for Jupyter Notebook -->
+<a href="https://github.com/Gurupatil0003" target="_blank">
+  <img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white">
+</a>
+
+<!-- Example for Anaconda -->
+<a href="https://github.com/Gurupatil0003" target="_blank">
+  <img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white">
+</a>
+
+<!-- Example for VS Code -->
+<a href="https://github.com/Gurupatil0003" target="_blank">
+  <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white">
+</a>
+
+<!-- Example for Colab -->
+<a href="https://github.com/Gurupatil0003" target="_blank">
+  <img alt="Colab" src="https://img.shields.io/badge/-Colab-F9AB00?style=flat-square&logo=google%20colab&logoColor=white">
+</a>
+
+<!-- Example for Eclipse -->
+<a href="https://github.com/Gurupatil0003" target="_blank">
+  <img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-2C3E50?style=flat-square&logo=eclipse&logoColor=white">
+</a>
+<a href="https://github.com/Gurupatil0003" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-★★★-lightgrey?style=flat-square&labelColor=FFD43B&logo=python&logoColor=darkgreen"></a>-->
+    <a href="https://github.com/Gurupatil0003?tab=repositories&language=Jupyter Notebook" target="_blank"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white"></a>
+    <a href="https://github.com/Gurupatil0003" target="_blank"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white"></a>
+    <a href="https://github.com/Gurupatil0003/10_Python_Pandas_Module" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white"></a>
+    <a href="https://github.com/Gurupatil0003/11_Python_Matplotlib_Module" target="_blank"><img alt="Ploty" src="https://img.shields.io/badge/Plotly-%233F4F75?style=flat-square&logo=plotly&logoColor=white"></a>
+    <a href="https://github.com/Gurupatil0003/Python_Decision_Tree_and_Random_Forest" target="_blank"><img alt="ScikitLearn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"></a>
+    <a href="https://github.com/Gurupatil0003/93_Python_Data_Analytics_Projects" target="_blank"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5?style=flat-square&logo=scipy&logoColor=white"></a>
+    <a href="https://github.com/Gurupatil0003/93_Python_Data_Analytics_Projects" target="_blank"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"></a>    
+    <a href="https://github.com/Gurupatil0003?tab=repositories&language=matlab" target="_blank"><img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-fb4f14?style=flat-square&logo=Mathworks&logoColor=white"></a>
+    <a href="https://github.com/Gurupatil0003?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
+    <a href="https://github.com/Gurupatil0003?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
+    <a href="https://github.com/Gurupatil0003?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>   
+    <a href="https://github.com/Gurupatil0003?tab=repositories&language=TeX" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
+    <a href="https://github.com/Gurupatil0003?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/Hadoop-%232A73CC?style=flat-square&logo=apache-hadoop&logoColor=white"></a>
+    <a href="https://github.com/Gurupatil0003?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/Spark-%23E25A1C?style=flat-square&logo=apache-spark&logoColor=white"></a>
+    <a href="https://github.com/Gurupatil0003?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/JavaScript-%23323330?style=flat-square&logo=javascript&logoColor=F7DF1E"></a>
+    <a href="https://github.com/Gurupatil0003?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/CV-%233776AB?style=flat-square&logo=computer-vision&logoColor=white"></a>
+    <a href="https://github.com/Gurupatil0003?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/LSTM-%23FF6F61?style=flat-square&logo=lstm&logoColor=white"></a>
+    <a href="https://github.com/Gurupatil0003?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/LLM-%2344BFC8?style=flat-square&logo=llm&logoColor=white"></a>
+    <!-- Example for Python3 -->
+<a href="https://github.com/Gurupatil0003?tab=repositories&language=python" target="_blank">
+  <img alt="Python3" src="https://img.shields.io/badge/-Python3-3776AB?style=flat-square&logo=python&logoColor=white">
+</a>
+
+<!-- Example for Java -->
+<a href="https://github.com/Gurupatil0003?tab=repositories&language=java" target="_blank">
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white">
+</a>
+
+<!-- Repeat the structure for other technologies and skills -->
+
+<!-- Example for Chat GPT -->
+<a href="https://github.com/Gurupatil0003?tab=repositories&language=python" target="_blank">
+  <img alt="Chat GPT" src="https://img.shields.io/badge/-Chat%20GPT-4DB6AC?style=flat-square&logo=python&logoColor=white">
+</a>
+
+<!-- Example for JavaScript -->
+<a href="https://github.com/Gurupatil0003?tab=repositories&language=javascript" target="_blank">
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+</a>
+
+<!-- Example for HTML/CSS -->
+<a href="https://github.com/Gurupatil0003?tab=repositories&language=html" target="_blank">
+  <img alt="HTML/CSS" src="https://img.shields.io/badge/-HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white">
+</a>
+
+<!-- Example for SQL -->
+<a href="https://github.com/Gurupatil0003?tab=repositories&language=sql" target="_blank">
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
+</a>
+
+<!-- Repeat the structure for other technologies and skills -->
+
+<!-- Example for C -->
+<a href="https://github.com/Gurupatil0003?tab=repositories&language=c" target="_blank">
+  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black">
+</a>
+
+<!-- Example for C++ -->
+<a href="https://github.com/Gurupatil0003?tab=repositories&language=cpp" target="_blank">
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+</a>
+
+<!-- Example for Node.js -->
+<a href="https://github.com/Gurupatil0003?tab=repositories&language=nodejs" target="_blank">
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
+</a>
+
+<!-- Example for Data Science / Machine Learning -->
+<a href="#" target="_blank">
+  <img alt="Data Science / ML" src="https://img.shields.io/badge/-Data%20Science%20%2F%20ML-3498DB?style=flat-square&logo=python&logoColor=white">
+</a>
+<!-- Example for Supervised and Unsupervised Algorithms -->
+<a href="#" target="_blank">
+  <img alt="Supervised and Unsupervised Algorithms" src="https://img.shields.io/badge/-Supervised%20and%20Unsupervised%20Algorithms-4DB6AC?style=flat-square&logo=machine%20learning&logoColor=white">
+</a>
+<a href="#" target="_blank"><img alt="Linear Regression" src="https://img.shields.io/badge/-Linear%20Regression-3498DB?style=flat-square&logo=python&logoColor=white"></a>
+<a href="#" target="_blank"><img alt="Logistic Regression" src="https://img.shields.io/badge/-Logistic%20Regression-4DB6AC?style=flat-square&logo=python&logoColor=white"></a>
+<a href="#" target="_blank"><img alt="Decision Trees" src="https://img.shields.io/badge/-Decision%20Trees-2ECC71?style=flat-square&logo=python&logoColor=white"></a>
+<a href="#" target="_blank"><img alt="Random Forest" src="https://img.shields.io/badge/-Random%20Forest-27AE60?style=flat-square&logo=python&logoColor=white"></a>
+<a href="#" target="_blank"><img alt="SVM" src="https://img.shields.io/badge/-SVM-F39C12?style=flat-square&logo=python&logoColor=white"></a>
+<a href="#" target="_blank"><img alt="Naive Bayes" src="https://img.shields.io/badge/-Naive%20Bayes-F7DC6F?style=flat-square&logo=python&logoColor=black"></a>
+<a href="#" target="_blank"><img alt="KNN" src="https://img.shields.io/badge/-KNN-884EA0?style=flat-square&logo=python&logoColor=white"></a>
+<a href="#" target="_blank"><img alt="XGBoost" src="https://img.shields.io/badge/-XGBoost-6A1B9A?style=flat-square&logo=xgboost&logoColor=white"></a>
+<a href="#" target="_blank"><img alt="K-Means Clustering" src="https://img.shields.io/badge/-K--Means%20Clustering-3498DB?style=flat-square&logo=python&logoColor=white"></a>
+<a href="#" target="_blank"><img alt="Hierarchical Clustering" src="https://img.shields.io/badge/-Hierarchical%20Clustering-2ECC71?style=flat-square&logo=python&logoColor=white"></a>
+<a href="#" target="_blank"><img alt="DBSCAN" src="https://img.shields.io/badge/-DBSCAN-27AE60?style=flat-square&logo=python&logoColor=white"></a>
+<a href="#" target="_blank"><img alt="PCA" src="https://img.shields.io/badge/-PCA-F39C12?style=flat-square&logo=python&logoColor=white"></a>
+<a href="#" target="_blank"><img alt="Self-Training" src="https://img.shields.io/badge/-Self--Training-6A1B9A?style=flat-square&logo=python&logoColor=white"></a>
+<a href="#" target="_blank"><img alt="Q-Learning" src="https://img.shields.io/badge/-Q--Learning-2ECC71?style=flat-square&logo=python&logoColor=white"></a>
+<a href="#" target="_blank"><img alt="DQN" src="https://img.shields.io/badge/-DQN-27AE60?style=flat-square&logo=python&logoColor=white"></a>
+<a href="#" target="_blank"><img alt="Policy Gradient Methods" src="https://img.shields.io/badge/-Policy%20Gradient%20Methods-F39C12?style=flat-square&logo=python&logoColor=white"></a>
+<a href="#" target="_blank"><img alt="Association Rule Learning" src="https://img.shields.io/badge/-Association%20Rule%20Learning-884EA0?style=flat-square&logo=python&logoColor=white"></a>
+<a href="#" target="_blank"><img alt="Isolation Forest" src="https://img.shields.io/badge/-Isolation%20Forest-6A1B9A?style=flat-square&logo=python&logoColor=white"></
+
+
+<!-- Example for Data Pre-Processing -->
+<a href="#" target="_blank">
+  <img alt="Data Pre-Processing" src="https://img.shields.io/badge/-Data%20Pre%20Processing-3498DB?style=flat-square&logo=data&logoColor=white">
+</a>
+<!-- Example for Power BI -->
+<a href="#" target="_blank">
+  <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black">
+</a>
+<!-- Example for Tableau -->
+<a href="#" target="_blank">
+  <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white">
+</a>
+
+<!-- Example for Performance Matrix -->
+<a href="#" target="_blank">
+  <img alt="Performance Matrix" src="https://img.shields.io/badge/-Performance%20Matrix-2C3E50?style=flat-square&logo=performance&logoColor=white">
+</a>
+
+<!-- Example for Deep Learning -->
+<a href="#" target="_blank">
+  <img alt="Deep Learning" src="https://img.shields.io/badge/-Deep%20Learning-FF6F61?style=flat-square&logo=python&logoColor=white">
+</a>
+<!-- Example for Artificial Neural Networks (ANN) -->
+<a href="#" target="_blank">
+  <img alt="Artificial Neural Networks (ANN)" src="https://img.shields.io/badge/-ANN-FF6F61?style=flat-square&logo=neural%20network&logoColor=white">
+</a>
+
+<!-- Example for Convolutional Neural Networks (CNN) -->
+<a href="#" target="_blank">
+  <img alt="Convolutional Neural Networks (CNN)" src="https://img.shields.io/badge/-CNN-3498DB?style=flat-square&logo=neural%20network&logoColor=white">
+</a>
+
+<!-- Example for Autoencoder -->
+<a href="#" target="_blank">
+  <img alt="Autoencoder" src="https://img.shields.io/badge/-Autoencoder-2C3E50?style=flat-square&logo=neural%20network&logoColor=white">
+</a>
+
+<!-- Example for Optimizers -->
+<a href="#" target="_blank">
+  <img alt="Optimizers" src="https://img.shields.io/badge/-Optimizers-4DB6AC?style=flat-square&logo=neural%20network&logoColor=white">
+</a>
+
+<!-- Example for Activation Function -->
+<a href="#" target="_blank">
+  <img alt="Activation Function" src="https://img.shields.io/badge/-Activation%20Function-F7DF1E?style=flat-square&logo=neural%20network&logoColor=black">
+</a>
+
+<!-- Repeat the structure for the remaining technologies and skills -->
+
+<!-- Example for NLP -->
+<a href="#" target="_blank">
+  <img alt="NLP" src="https://img.shields.io/badge/-NLP-4DB6AC?style=flat-square&logo=natural%20language%20processing&logoColor=white">
+</a>
+<!-- Example for Text Pre-Processing -->
+<a href="#" target="_blank">
+  <img alt="Text Pre-Processing" src="https://img.shields.io/badge/-Text%20Pre%20Processing-3498DB?style=flat-square&logo=nlp&logoColor=white">
+</a>
+
+<!-- Example for Tokenization -->
+<a href="#" target="_blank">
+  <img alt="Tokenization" src="https://img.shields.io/badge/-Tokenization-2C3E50?style=flat-square&logo=nlp&logoColor=white">
+</a>
+
+<!-- Example for Part of Speech -->
+<a href="#" target="_blank">
+  <img alt="Part of Speech" src="https://img.shields.io/badge/-Part%20of%20Speech-4DB6AC?style=flat-square&logo=nlp&logoColor=white">
+</a>
+
+<!-- Example for Sentiment Analysis -->
+<a href="#" target="_blank">
+  <img alt="Sentiment Analysis" src="https://img.shields.io/badge/-Sentiment%20Analysis-F7DC6F?style=flat-square&logo=nlp&logoColor=black">
+</a>
+
+<!-- Example for Langchain -->
+<a href="#" target="_blank">
+  <img alt="Langchain" src="https://img.shields.io/badge/-Langchain-3498DB?style=flat-square&logo=nlp&logoColor=white">
+</a>
+
+<!-- Example for ChatGPT -->
+<a href="#" target="_blank">
+  <img alt="ChatGPT" src="https://img.shields.io/badge/-ChatGPT-3498DB?style=flat-square&logo=nlp&logoColor=white">
+</a>
+
+<!-- Example for Named Entity Recognition (NER) -->
+<a href="#" target="_blank">
+  <img alt="NER" src="https://img.shields.io/badge/-NER-2C3E50?style=flat-square&logo=nlp&logoColor=white">
+</a>
+
+<!-- Example for Recurrent Neural Network (RNN) -->
+<a href="#" target="_blank">
+  <img alt="RNN" src="https://img.shields.io/badge/-RNN-4DB6AC?style=flat-square&logo=neural%20network&logoColor=white">
+</a>
+
+<!-- Example for Long Short-Term Memory (LSTM) -->
+<a href="#" target="_blank">
+  <img alt="LSTM" src="https://img.shields.io/badge/-LSTM-3498DB?style=flat-square&logo=neural%20network&logoColor=white">
+</a>
+
+<!-- Example for Gated Recurrent Unit (GRU) -->
+<a href="#" target="_blank">
+  <img alt="GRU" src="https://img.shields.io/badge/-GRU-2C3E50?style=flat-square&logo=neural%20network&logoColor=white">
+</a>
+
+<!-- Example for BERT -->
+<a href="#" target="_blank">
+  <img alt="BERT" src="https://img.shields.io/badge/-BERT-4DB6AC?style=flat-square&logo=nlp&logoColor=white">
+</a>
+
+<!-- Example for State-of-the-Art AI Algorithms -->
+<a href="#" target="_blank">
+  <img alt="State-of-the-Art AI Algorithms" src="https://img.shields.io/badge/-State%20of%20the%20Art%20AI%20Algorithms-F7DC6F?style=flat-square&logo=nlp&logoColor=black">
+</a>
+
+<!-- Example for LLM (Large Language Model) -->
+<a href="#" target="_blank">
+  <img alt="LLM" src="https://img.shields.io/badge/-LLM-3498DB?style=flat-square&logo=nlp&logoColor=white">
+</a>
+
+<!-- Example for Chat GPT Developer -->
+<a href="#" target="_blank">
+  <img alt="Chat GPT Developer" src="https://img.shields.io/badge/-Chat%20GPT%20Developer-2C3E50?style=flat-square&logo=nlp&logoColor=white">
+</a>
+
+
+
+<!-- Example for Computer Vision -->
+<a href="#" target="_blank">
+  <img alt="Computer Vision" src="https://img.shields.io/badge/-Computer%20Vision-2C3E50?style=flat-square&logo=opencv&logoColor=white">
+</a>
+<!-- Example for Object Detection -->
+<a href="#" target="_blank">
+  <img alt="Object Detection" src="https://img.shields.io/badge/-Object%20Detection-E74C3C?style=flat-square&logo=computer%20vision&logoColor=white">
+</a>
+
+<!-- Example for Image Classification and Segmentation -->
+<a href="#" target="_blank">
+  <img alt="Image Classification and Segmentation" src="https://img.shields.io/badge/-Image%20Classification%20and%20Segmentation-3498DB?style=flat-square&logo=computer%20vision&logoColor=white">
+</a>
+
+<!-- Example for Transfer Learning -->
+<a href="#" target="_blank">
+  <img alt="Transfer Learning" src="https://img.shields.io/badge/-Transfer%20Learning-2C3E50?style=flat-square&logo=computer%20vision&logoColor=white">
+</a>
+
+<!-- Example for Generative Adversarial Networks (GAN) -->
+<a href="#" target="_blank">
+  <img alt="GAN" src="https://img.shields.io/badge/-GAN-F7DC6F?style=flat-square&logo=computer%20vision&logoColor=black">
+</a>
+
+<!-- Repeat the structure for the remaining technologies and skills -->
+<!-- Example for Python Packages -->
+<a href="#" target="_blank">
+  <img alt="Python Packages" src="https://img.shields.io/badge/-Python%20Packages-3776AB?style=flat-square&logo=python&logoColor=white">
+</a>
+
+<!-- Example for Web Development -->
+<a href="#" target="_blank">
+  <img alt="Web Development" src="https://img.shields.io/badge/-Web%20Development-3498DB?style=flat-square&logo=html5&logoColor=white">
+</a>
+<!-- Example for HTML -->
+<a href="#" target="_blank">
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
+</a>
+
+<!-- Example for CSS -->
+<a href="#" target="_blank">
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
+</a>
+
+<!-- Example for JavaScript -->
+<a href="#" target="_blank">
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+</a>
+<!-- Example for API -->
+<a href="#" target="_blank">
+  <img alt="API" src="https://img.shields.io/badge/-API-009688?style=flat-square&logo=api&logoColor=white">
+</a>
+
+<!-- Example for Flask -->
+<a href="#" target="_blank">
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white">
+</a>
+
+<!-- Example for Django -->
+<a href="#" target="_blank">
+  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white">
+</a>
+
+<!-- Example for Streamlit -->
+<a href="#" target="_blank">
+  <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4E00?style=flat-square&logo=streamlit&logoColor=white">
+</a>
+
+<!-- Example for DevOps and MlOps -->
+<a href="#" target="_blank">
+  <img alt="DevOps / MlOps" src="https://img.shields.io/badge/-DevOps%20%2F%20MlOps-2C3E50?style=flat-square&logo=devops&logoColor=white">
+</a>
+<!-- Example for MLOps -->
+<a href="#" target="_blank">
+  <img alt="MLOps" src="https://img.shields.io/badge/-MLOps-FF6F61?style=flat-square&logo=machine%20learning&logoColor=white">
+</a>
+
+<!-- Example for Git -->
+<a href="#" target="_blank">
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
+</a>
+
+<!-- Example for GitHub -->
+<a href="#" target="_blank">
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white">
+</a>
+
+<!-- Example for Docker -->
+<a href="#" target="_blank">
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+</a>
+
+<!-- Example for Jenkins -->
+<a href="#" target="_blank">
+  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white">
+</a>
+
+<!-- Example for Heroku -->
+<a href="#" target="_blank">
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white">
+</a>
+
+<!-- Repeat the structure for the remaining technologies and skills -->
+
+<!-- Example for Database and Bigdata -->
+<a href="#" target="_blank">
+  <img alt="Database / Bigdata" src="https://img.shields.io/badge/-Database%20%2F%20Bigdata-3498DB?style=flat-square&logo=database&logoColor=white">
+</a>
+<!-- Example for MySQL -->
+<a href="#" target="_blank">
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+</a>
+
+<!-- Example for ETL Data Extraction -->
+<a href="#" target="_blank">
+  <img alt="ETL Data Extraction" src="https://img.shields.io/badge/-ETL%20Data%20Extraction-76C7C0?style=flat-square&logo=etl&logoColor=white">
+</a>
+
+<!-- Example for MongoDB -->
+<a href="#" target="_blank">
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+</a>
+
+<!-- Example for Apache Spark -->
+<a href="#" target="_blank">
+  <img alt="Apache Spark" src="https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white">
+</a>
+
+<!-- Example for Hadoop -->
+<a href="#" target="_blank">
+  <img alt="Hadoop" src="https://img.shields.io/badge/-Hadoop-FF652F?style=flat-square&logo=hadoop&logoColor=white">
+</a>
+
+<!-- Example for HBase -->
+<a href="#" target="_blank">
+  <img alt="HBase" src="https://img.shields.io/badge/-HBase-2C3E50?style=flat-square&logo=hbase&logoColor=white">
+</a>
+
+<!-- Example for NoSQL -->
+<a href="#" target="_blank">
+  <img alt="NoSQL" src="https://img.shields.io/badge/-NoSQL-4DB6AC?style=flat-square&logo=nosql&logoColor=white">
+</a>
+
+<!-- Example for Hive -->
+<a href="#" target="_blank">
+  <img alt="Hive" src="https://img.shields.io/badge/-Hive-FDE74C?style=flat-square&logo=hive&logoColor=white">
+</a>
+
+<!-- Example for Apache Kafka -->
+<a href="#" target="_blank">
+  <img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white">
+</a>
+<!-- Example for Kubernetes -->
+<a href="https://kubernetes.io/" target="_blank">
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
+</a>
+<!-- Example for Jenkins -->
+<a href="https://www.jenkins.io/" target="_blank">
+  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white">
+</a>
+<!-- Example for Cassandra -->
+<a href="https://cassandra.apache.org/" target="_blank">
+  <img alt="Cassandra" src="https://img.shields.io/badge/-Cassandra-1287B1?style=flat-square&logo=apache-cassandra&logoColor=white">
+</a>
+
+<!-- Example for Cloud Computing Technology -->
+<a href="#" target="_blank">
+  <img alt="Cloud Computing" src="https://img.shields.io/badge/-Cloud%20Computing-3498DB?style=flat-square&logo=cloud&logoColor=white">
+</a>
+
+<!-- Example for AWS -->
+<a href="#" target="_blank">
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
+</a>
+
+<!-- Example for Azure -->
+<a href="#" target="_blank">
+  <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white">
+</a>
+
+
+
+
+<!-- Example for Create Invite -->
+<a href="#" target="_blank">
+  <img alt="Create Invite" src="https://img.shields.io/badge/Create%20Invite-%237289DA?style=flat-square&logo=discord&logoColor=white">
+</a>
+
+</p>
 <p>
     -<!--https://github.com/alexandresanlim/Badges4-README.md-Profile-->
 </p>
