@@ -14,11 +14,11 @@
 </p> 
 
 
-<h3 align="center"> 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'am Mr.Mounesh Gouda! Researcher - Data Science, NLP, CV & Machine Learning with AI <img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="36"/>
-</h3> 
 
-<p align="center">   
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&random=false&width=435&lines=Konnichiwa+I'm+Guru+Patil++;3%2B+Years+Experience+As+a;Data+Scientist+and+AI+Developer" alt="Typing SVG" /></a></p>
+
+</p>  
 
 </p> 
 <p align="center"> 
