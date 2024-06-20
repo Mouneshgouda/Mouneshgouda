@@ -76,7 +76,7 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="20" />&nbsp; I enjoy listening music 🎧 going to gym 🏋️‍♂️ and traveling <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">🏝️🗻🌄🗿<img align ='center' width ='20' src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="18">
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> Reach me: <a href="mailto:mouneshpatil001@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-mouneshpatil001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
 
-#### SKILSS
+#### SKIllS
 
 <p align="center">
     <a href="https://github.com/Gurupatil0003?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
