@@ -58,7 +58,6 @@
 ##### NOW
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> Currently working on developing new clustering algorithms for autonomous pattern recognition
 
-![image](https://github.com/user-attachments/assets/1fee46c0-dde2-4f23-99cd-3526fd267057)
 
 
 #### Previous Company
