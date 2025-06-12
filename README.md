@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/013e5f14-03eb-4dda-8f0e-6f96718f387d)
+
+
 <h1 align="center"> <img src="https://github.com/Mouneshgouda/Mouneshgouda/blob/main/de061af8b29c72b745e3fd3f5e16d4ab.png" width="50"/><a href="https://git.io/typing-svg"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=26&pause=1000&random=false&width=435&lines=%22Koukai+sezu+ni+jinsei+o+ikiru+hitsuyou+ga+arimasu.%22" alt="Typing SVG" /></a><img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/luffy-wano%20(1).gif" width="99"/></h1>
 
 
