@@ -53,6 +53,9 @@
 
 </table>
 
+![image](https://github.com/user-attachments/assets/5f9d7950-318b-4b2e-8dca-0e30fa0af9ca)
+
+
 
 ##### NOW
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> Currently working on developing new clustering algorithms for autonomous pattern recognition
