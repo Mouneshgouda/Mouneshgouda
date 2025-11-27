@@ -1,4 +1,4 @@
-src="<img width="1740" height="432" alt="image" src="https://github.com/user-attachments/assets/32574ba9-99bc-484c-8f2f-9590cbdf4aa2" />
+<p></p> src="<img width="1740" height="432" alt="image" src="https://github.com/user-attachments/assets/32574ba9-99bc-484c-8f2f-9590cbdf4aa2" />  </p>
 
 <h1 align="center"> <img src="https://github.com/Mouneshgouda/Mouneshgouda/blob/main/de061af8b29c72b745e3fd3f5e16d4ab.png" width="50"/><a href="https://git.io/typing-svg"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=26&pause=1000&random=false&width=435&lines=%22Koukai+sezu+ni+jinsei+o+ikiru+hitsuyou+ga+arimasu.%22" alt="Typing SVG" /></a><img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/luffy-wano%20(1).gif" width="99"/></h1>
 
