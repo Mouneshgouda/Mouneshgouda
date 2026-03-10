@@ -1,6 +1,6 @@
 <div align="center">
   <a href="URL_TO_FULL_SIZE_IMAGE">
-    <img src="https://github.com/Mouneshgouda/Mouneshgouda/blob/main/Gemini_Generated_Image_s477v5s477v5s477.png" width="900" alt="Click to view full size">
+    <img src="https://github.com/Mouneshgouda/Mouneshgouda/blob/main/WhatsApp%20Image%202026-03-07%20at%206.13.32%20PM.jpeg" width="900" alt="Click to view full size">
   </a>
   <p><em>Click the image to view in full resolution</em></p>
 </div>
