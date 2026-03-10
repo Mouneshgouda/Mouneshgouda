@@ -29,17 +29,17 @@
 
 </td>
 
-<td align="center" width="350">
+<td align="center" width="380">
 
 <h4>👨‍💻 Personal Account</h4>
 
 <a href="https://www.instagram.com/mounesh_patil_01/">
-<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/Screenshot%202026-03-10%20230616.png" width="260">
+<img src="https://github.com/Mouneshgouda/Mouneshgouda/blob/main/WhatsApp%20Image%202026-03-10%20at%2011.34.26%20PM.jpeg" width="280">
 </a>
 
 <br><br>
 
-<b>@guru_patil__03</b>
+<b>@mounesh_patil_01</b>
 
 </td>
 
