@@ -1,4 +1,4 @@
-<p></p> src="<img width="1740" height="432" alt="image" src="https://github.com/Mouneshgouda/Mouneshgouda/blob/main/WhatsApp%20Image%202026-03-07%20at%206.13.32%20PM.jpeg" /> 
+<p></p> src="<img width="1740" height="432" alt="image" src="https://github.com/Mouneshgouda/Mouneshgouda" /> 
 
 
 </p>
