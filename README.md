@@ -1,11 +1,56 @@
 <div align="center">
-  <a href="URL_TO_FULL_SIZE_IMAGE">
-    <img src="https://github.com/Mouneshgouda/Mouneshgouda/blob/main/WhatsApp%20Image%202026-03-07%20at%206.13.32%20PM.jpeg" width="900" alt="Click to view full size">
-  </a>
-  <p><em>Click the image to view in full resolution</em></p>
+
+<hr width="35%">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=E4405F&center=true&vCenter=true&width=420&lines=Follow+Our+Tech+Journey;AI+Engineering+%7C+Teaching+%7C+Startups;Building+The+Future+With+Code"/>
+
+<hr width="35%">
+
+### <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="28"/> Instagram Accounts
+
 </div>
 
-</p>
+</div>
+
+<table align="center" border="1" cellpadding="10" cellspacing="0">
+<tr>
+
+<td align="center" width="350">
+
+<h4>🔥 Official Account</h4>
+
+<a href="https://www.instagram.com/guru.mounesh/">
+<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/WhatsApp%20Image%202026-03-10%20at%2023.33.13.jpeg" width="260">
+</a>
+
+<br><br>
+
+<b>@guru.mounesh</b>
+
+</td>
+
+<td align="center" width="350">
+
+<h4>👨‍💻 Personal Account</h4>
+
+<a href="https://www.instagram.com/mounesh_patil_01/">
+<img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/Screenshot%202026-03-10%20230616.png" width="260">
+</a>
+
+<br><br>
+
+<b>@guru_patil__03</b>
+
+</td>
+
+</tr>
+</table>
+
+<div align="center">
+
+<hr width="45%">
+
+</div>
 
 <h1 align="center"> <img src="https://github.com/Mouneshgouda/Mouneshgouda/blob/main/de061af8b29c72b745e3fd3f5e16d4ab.png" width="50"/><a href="https://git.io/typing-svg"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=26&pause=1000&random=false&width=435&lines=%22Koukai+sezu+ni+jinsei+o+ikiru+hitsuyou+ga+arimasu.%22" alt="Typing SVG" /></a><img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/luffy-wano%20(1).gif" width="99"/></h1>
 
