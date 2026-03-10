@@ -1,4 +1,4 @@
-<p></p> src="<img width="1740" height="432" alt="image" src="https://github.com/Mouneshgouda/Mouneshgouda/blob/main/new.jpeg" /> 
+<p></p> src="<img width="1740" height="432" alt="image" src="https://github.com/Mouneshgouda/Mouneshgouda/blob/main/Gemini_Generated_Image_s477v5s477v5s477.png" /> 
 
 
 </p>
