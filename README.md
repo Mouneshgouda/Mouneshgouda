@@ -1,5 +1,9 @@
-<p></p> src="<img width="1740" height="432" alt="image" src="https://github.com/Mouneshgouda/Mouneshgouda/blob/main/Gemini_Generated_Image_s477v5s477v5s477.png" /> 
-
+<div align="center">
+  <a href="URL_TO_FULL_SIZE_IMAGE">
+    <img src="https://github.com/Mouneshgouda/Mouneshgouda/blob/main/Gemini_Generated_Image_s477v5s477v5s477.png" width="900" alt="Click to view full size">
+  </a>
+  <p><em>Click the image to view in full resolution</em></p>
+</div>
 
 </p>
 
